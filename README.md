@@ -1,18 +1,18 @@
 # Minkyeul Lee
 
 Energy Engineering @ KENTECH  
-Interested in ML, CV, and AI for Energy Systems.
+Undergraduate researcher in ML, CV, and AI for Energy Systems.
 
 ## Research Interests
 - Medical Imaging
 - Diffusion Models
-- Computer Vision
+- Generative Models
 
 ## Projects
 - Solar/Wind Power Forecasting with Feature Selection
 - Diffusion-based Image Reconstruction
-- Renoise
-- CNN / ViT Training Experiments
+- Re-noising for Image Restoration
+- CNN / ViT Training and Analysis
 
 ## Tools
 Python · PyTorch · C++ · Git · Linux · LaTeX
