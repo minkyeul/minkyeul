@@ -1,7 +1,7 @@
 # Minkyeul Lee
 
 Energy Engineering @ KENTECH  
-Interested in ML, CV, and AI for Energy Engineering.
+Interested in ML, CV, and AI for Energy Systems.
 
 ## Research Interests
 - Medical Imaging
