@@ -8,7 +8,7 @@ Interested in ML, CV, and AI for Energy Engineering.
 - Diffusion Models
 - Computer Vision
 
-## Selected Projects
+## Projects
 - Solar/Wind Power Forecasting with Feature Selection
 - Diffusion-based Image Reconstruction
 - Renoise
